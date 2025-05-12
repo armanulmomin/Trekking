@@ -1,2 +1,20 @@
 # Trekking
-Trekking is a SwiftUI-based iOS app that showcases a list of trekking destinations with smooth navigation, interactive tap gestures, and engaging animations. The project demonstrates core SwiftUI concepts including List, NavigationStack, gesture handling, and view transitions for a dynamic user experience.
+
+**Trekking** is a SwiftUI-based iOS app that presents a list of trekking destinations with interactive features and smooth navigation. The app showcases core SwiftUI concepts including `List`, `NavigationStack`, gesture handling, and view animations.
+
+## Features
+
+- 🗺️ Display of trekking locations using `List`
+- 📍 Navigation to detailed views using `NavigationStack`
+- 👆 Interactive tap gestures to enhance user interaction
+- ✨ Smooth animations and transitions for a better user experience
+- 📱 SwiftUI interface optimized for modern iOS devices
+
+
+
+## Technologies Used
+
+- Swift
+- SwiftUI
+- Xcode
+
